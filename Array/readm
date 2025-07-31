@@ -3,12 +3,6 @@ Declare an array with 5 elements containing fruits
 console log the 3rd index element
 change the value of the 2nd index element to jambura
 console log the final array
-2. Add or remove elements
-Declare an array of 3 tourist destinations
-Add a new tourist destination to your tourist array
-Add two more to your array
-Remove the last tourist destination you have added
-display the final array as output
 3. Checking Array Membership with ‘includes’
 Instructions:
 
